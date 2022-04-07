@@ -6,7 +6,7 @@ INSTALLATION INSTRUCTIONS:
 1. Download Forge 1.16.5 installer: https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.2.20/forge-1.16.5-36.2.20-installer.jar
 2. Use forge installer to install forge client.
 3. Go to your mod folder (Windows: %appdata%/.minecraft/mods, Ubuntu: home/.minecraft/mods) (You may use a custom directory, but you don't need to.)
-4. Download Glassico ZIP file and put it in the mods folder. https://objects.githubusercontent.com/github-production-release-asset-2e65be/477477537/178c6579-a30f-4b2e-8752-42974f2b56b9?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220403%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220403T232930Z&X-Amz-Expires=300&X-Amz-Signature=49da6f58b588f58da820ccfbec481d858d46e2853226ca6ff0ba41b845399c8c&X-Amz-SignedHeaders=host&actor_id=81789340&key_id=0&repo_id=477477537&response-content-disposition=attachment%3B%20filename%3DGlassico-1.16.5-v0.5.zip&response-content-type=application%2Foctet-stream
+4. Download Glassico ZIP file and put it in the mods folder. https://codeload.github.com/Copernicle/Glassico/zip/refs/tags/v0.6
 5. Put old jar files into an archive folder if you have any.
 6. Extract ZIP file and put jar files into the mods folder.
 7. Start Forge 1.16.5 in the launcher.
